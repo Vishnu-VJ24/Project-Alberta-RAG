@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+.uv-cache/
+
+# Data artifacts
+data/raw/*
+data/processed/*
+data/vector_store/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/vector_store/.gitkeep
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
