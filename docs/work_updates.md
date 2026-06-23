@@ -11,7 +11,6 @@
 - Defined the proposed research angle: using tourism data, demographic trends, transportation access, geospatial analysis, and economic-impact modeling to support corridor development decisions.
 - Proposed that the final internship output should include both a written research paper/report and a working RAG system trained on the project evidence base.
 - Established that daily progress should be tracked through literature reviewed, data collected, analysis completed, problems solved, and blockers.
-- Proof: https://github.com/Vishnu-VJ24/Project-Alberta-RAG/blob/main/docs/rag_system_design.md
 
 ## Tuesday, June 23, 2026
 
@@ -26,10 +25,6 @@
 - Created the initial project repository structure with a README, project plan, RAG system design, literature review matrix, daily research log, and data inventory.
 - Designed the RAG system around stakeholder questions, source metadata, hybrid retrieval, citations, reliability tiers, and evaluation metrics.
 - Defined the 8-week project plan from source collection and baseline analysis through economic-impact modeling, marketing strategy, final report, and RAG evaluation.
-- Proof: https://industry.travelalberta.com/research/
-- Proof: https://industry.travelalberta.com/research/tourism-development-zone-reports
-- Proof: https://industry.travelalberta.com/research/tourism-indicators
-- Proof: https://connectingcommunities.foundation/
 
 ## Screenshot Plan
 
