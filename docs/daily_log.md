@@ -36,3 +36,38 @@
 - Does your supervisor expect the RAG system to be a demo, deployed app, or research prototype?
 - Are you allowed to use paid APIs such as OpenAI embeddings, or should we keep everything local/open-source?
 
+## 2026-06-24
+
+### Literature Reviewed
+
+- Travel Alberta TDZ discovery page: David Thompson
+- Travel Alberta TDZ discovery page: Olds to Lacombe
+- Travel Alberta TDZ discovery page: Cochrane to Sundre
+- Travel Alberta TDZ discovery page: Foothills
+
+### What We Learned
+
+- David Thompson, Olds to Lacombe, Cochrane to Sundre, and Foothills are all strong candidates for the Bow and Red Deer corridor analysis.
+- The reviewed TDZ pages provide comparable indicators: potential job creation, annual visitor spend growth, estimated tourism spend growth, stakeholder/business/community engagement, resident support, and top activity opportunities.
+- Foothills shows the largest listed estimated tourism spend growth among the reviewed TDZs.
+- David Thompson shows the highest listed annual visitor spend growth among the reviewed TDZs.
+- Olds to Lacombe appears important for Central Alberta rural tourism because of its business engagement and activity fit.
+- Cochrane to Sundre appears important for Bow corridor access and Calgary-region visitor dispersal.
+
+### Problems Solved
+
+- Created a TDZ prioritization note that turns source review into a usable project analysis artifact.
+- Added reviewed TDZ pages to the literature review matrix.
+- Identified initial candidate hub themes for future geospatial and economic-impact analysis.
+
+### Next Actions
+
+- Review the Canadian Badlands TDZ page in detail for Red Deer River corridor relevance.
+- Build a corridor geography table of municipalities, highways, tourism assets, airports, and TDZ relationships.
+- Start a hub-screening model that scores candidate hubs by TDZ alignment, access, activity fit, and economic potential.
+
+### Open Questions
+
+- Which municipalities should be formally included in the study boundary?
+- Should Calgary be treated as part of the corridor or as the main visitor source market?
+- Should Edmonton be included as a secondary source market for Red Deer corridor tourism?

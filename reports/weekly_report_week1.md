@@ -148,103 +148,122 @@ Connecting Communities Foundation Integrated Transportation & Economic Corridor 
 
 ## Wednesday, June 24, 2026
 
-**Work Title:** Visual Evidence Collection and Screenshot Planning  
+**Work Title:** Tourism Development Zone Prioritization for Bow and Red Deer Corridors  
 **Time Reported:** 4 hours  
-**Work Type:** Research documentation and evidence organization
+**Work Type:** Research analysis and strategic alignment
 
 ### Work Description
 
-Prepared a visual evidence workflow for the tourism corridor research project. The work focused on identifying which source pages should be captured as screenshots, how those screenshots should be named, and how they should be connected to the weekly report and final research deliverables.
+Reviewed priority Travel Alberta Tourism Development Zone pages and compared their relevance to the Bow and Red Deer River corridor project. The work focused on identifying which TDZs should be prioritized for deeper analysis, hub planning, transportation assessment, and future RAG ingestion.
 
 ### Research
 
 #### Link to Article
 
-https://industry.travelalberta.com/research/
+https://industry.travelalberta.com/research/tourism-development-zone-reports/david-thompson
 
 #### Title of the Article
 
-Travel Alberta Research Hub
+David Thompson Tourism Development Zone
 
 #### Summary of Report
 
-- Identified the Travel Alberta Research Hub as a central source page for tourism reports, visitor profiles, market information, and indicator dashboards.
-- Planned a screenshot of this page to document the starting point for official tourism source discovery.
-- Added the page to the screenshot log for later use in the weekly report and final methodology section.
+- Reviewed the David Thompson TDZ for its relevance to west-central Alberta recreation and Rocky Mountain access.
+- Recorded key indicators including 1,838 potential jobs, 7.2% annual visitor spend growth, and $252M estimated tourism spend growth.
+- Identified opportunity themes including wildlife viewing, cabins, and museums/heritage sites.
 
 #### Relation to Project
 
-- Supports the source collection process for the tourism development report.
-- Helps show where the RAG system's official tourism documents and datasets will originate.
-- Provides visual evidence for the research workflow used during Week 1.
+- Supports potential west-central adventure hub planning.
+- Helps connect the corridor strategy to mountain-adjacent recreation and heritage tourism.
+- Provides structured evidence for the TDZ alignment section of the final report.
 
 #### Motivation for Research
 
-- Needed a clear visual record of the official source portal used for the project.
-- Needed screenshot evidence for weekly reporting and final documentation.
-- Needed to connect source discovery work with the RAG system's future knowledge base.
+- Needed to evaluate whether the David Thompson area should be prioritized in the corridor strategy.
+- Needed early quantitative indicators for tourism potential and economic-impact framing.
+- Needed source material that can later be added to the RAG knowledge base.
 
 ### Research
 
 #### Link to Article
 
-https://industry.travelalberta.com/research/tourism-development-zone-reports
+https://industry.travelalberta.com/research/tourism-development-zone-reports/olds-to-lacombe
 
 #### Title of the Article
 
-Travel Alberta Tourism Development Zone Reports
+Olds to Lacombe Tourism Development Zone
 
 #### Summary of Report
 
-- Identified the TDZ reports page as a priority screenshot because TDZ alignment is one of the project's main deliverables.
-- Planned a screenshot to document the official source used to select and review relevant development zones.
-- Added the screenshot file name, caption, source URL, and report purpose to the screenshot log.
+- Reviewed the Olds to Lacombe TDZ as a Central Alberta corridor candidate.
+- Recorded key indicators including 719 potential jobs, 3.9% annual visitor spend growth, and $98M estimated tourism spend growth.
+- Identified opportunity themes including farmers' markets, camping, and breweries/distilleries.
 
 #### Relation to Project
 
-- Supports the strategic alignment analysis with Alberta Tourism Development Zones.
-- Helps document how relevant zones will be selected for deeper review.
-- Provides visual support for the final report's methodology and source collection sections.
+- Supports the Central Alberta rural tourism and Red Deer corridor portion of the project.
+- Helps identify possible small-town tourism and service hub opportunities.
+- Provides evidence for linking tourism development with local businesses and visitor services.
 
 #### Motivation for Research
 
-- Needed to show the source used for TDZ research in a clear and visual way.
-- Needed to prepare report-ready evidence before deeper TDZ analysis begins.
-- Needed to organize screenshot naming and captions so the weekly report is easier to compile.
+- Needed to understand which TDZ best represents the central corridor geography.
+- Needed to evaluate rural tourism opportunities beyond mountain-focused destinations.
+- Needed to compare local activity themes against the project's recreation hub objectives.
 
 ### Research
 
 #### Link to Article
 
-https://industry.travelalberta.com/research/tourism-indicators
+https://industry.travelalberta.com/research/tourism-development-zone-reports/cochrane-sundre-rocky-mountain-house
 
 #### Title of the Article
 
-Travel Alberta Tourism Indicators
+Cochrane to Sundre Tourism Development Zone
 
 #### Summary of Report
 
-- Identified the Tourism Indicators page as a key screenshot for showing the categories available for future quantitative analysis.
-- Planned a screenshot to support the baseline tourism trend and economic impact sections of the project.
-- Added this screenshot to the evidence log with a caption and intended report use.
+- Reviewed the Cochrane to Sundre TDZ for Bow corridor and foothills relevance.
+- Recorded key indicators including 1,073 potential jobs, 3.8% annual visitor spend growth, and $147M estimated tourism spend growth.
+- Identified opportunity themes including farmers' markets, camping, and hiking.
 
 #### Relation to Project
 
-- Supports future analysis of visitor spend, visitation, hotel performance, air access, employment, and economic impact.
-- Helps connect source review with the planned data inventory and RAG ingestion workflow.
-- Provides visual evidence for the research materials reviewed during Week 1.
+- Supports Bow corridor access and Calgary-region visitor dispersal analysis.
+- Helps identify transportation and recreation links between urban visitor markets and foothills destinations.
+- Provides evidence for possible hiking, camping, and rural experience hub recommendations.
 
 #### Motivation for Research
 
-- Needed to identify which tourism indicators could support the final analysis.
-- Needed visual evidence for the weekly report and future presentation materials.
-- Needed to prepare the screenshot workflow before building maps, charts, and the RAG prototype.
+- Needed to identify how the Bow corridor connects to Travel Alberta's TDZ framework.
+- Needed to compare the zone's economic potential with other candidate zones.
+- Needed to prepare evidence for future transportation improvement recommendations.
 
-### Proof / Supporting Links
+### Research
 
-- Travel Alberta Research Hub: https://industry.travelalberta.com/research/
-- Travel Alberta Tourism Development Zone Reports: https://industry.travelalberta.com/research/tourism-development-zone-reports
-- Travel Alberta Tourism Indicators: https://industry.travelalberta.com/research/tourism-indicators
-- Connecting Communities Foundation Summit: https://connectingcommunities.foundation/
-- Literature review matrix: https://github.com/Vishnu-VJ24/Project-Alberta-RAG/blob/main/docs/literature_review_matrix.md
-- Data inventory: https://github.com/Vishnu-VJ24/Project-Alberta-RAG/blob/main/docs/data_inventory.md
+#### Link to Article
+
+https://industry.travelalberta.com/research/tourism-development-zone-reports/foothills
+
+#### Title of the Article
+
+Foothills Tourism Development Zone
+
+#### Summary of Report
+
+- Reviewed the Foothills TDZ for Bow corridor and Calgary-region tourism relevance.
+- Recorded key indicators including 3,381 potential jobs, 4.5% annual visitor spend growth, and $468M estimated tourism spend growth.
+- Identified opportunity themes including hiking, cabins, and farmers' markets.
+
+#### Relation to Project
+
+- Supports hub planning for foothills recreation and Calgary visitor dispersal.
+- Provides one of the strongest economic-potential signals among the reviewed TDZs.
+- Helps frame future recommendations around shoulder-season recreation and rural tourism development.
+
+#### Motivation for Research
+
+- Needed to compare the Foothills TDZ against other candidate zones.
+- Needed to identify which zones show the strongest economic potential for future hub planning.
+- Needed to create a prioritized TDZ shortlist for the next stage of corridor analysis.
