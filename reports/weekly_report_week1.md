@@ -144,6 +144,102 @@ Connecting Communities Foundation Integrated Transportation & Economic Corridor 
 - Needed to align the research work with transportation and economic corridor priorities.
 - Needed to prepare for future conference materials and communication outputs.
 
+---
+
+## Wednesday, June 24, 2026
+
+**Work Title:** Visual Evidence Collection and Screenshot Planning  
+**Time Reported:** 4 hours  
+**Work Type:** Research documentation and evidence organization
+
+### Work Description
+
+Prepared a visual evidence workflow for the tourism corridor research project. The work focused on identifying which source pages should be captured as screenshots, how those screenshots should be named, and how they should be connected to the weekly report and final research deliverables.
+
+### Research
+
+#### Link to Article
+
+https://industry.travelalberta.com/research/
+
+#### Title of the Article
+
+Travel Alberta Research Hub
+
+#### Summary of Report
+
+- Identified the Travel Alberta Research Hub as a central source page for tourism reports, visitor profiles, market information, and indicator dashboards.
+- Planned a screenshot of this page to document the starting point for official tourism source discovery.
+- Added the page to the screenshot log for later use in the weekly report and final methodology section.
+
+#### Relation to Project
+
+- Supports the source collection process for the tourism development report.
+- Helps show where the RAG system's official tourism documents and datasets will originate.
+- Provides visual evidence for the research workflow used during Week 1.
+
+#### Motivation for Research
+
+- Needed a clear visual record of the official source portal used for the project.
+- Needed screenshot evidence for weekly reporting and final documentation.
+- Needed to connect source discovery work with the RAG system's future knowledge base.
+
+### Research
+
+#### Link to Article
+
+https://industry.travelalberta.com/research/tourism-development-zone-reports
+
+#### Title of the Article
+
+Travel Alberta Tourism Development Zone Reports
+
+#### Summary of Report
+
+- Identified the TDZ reports page as a priority screenshot because TDZ alignment is one of the project's main deliverables.
+- Planned a screenshot to document the official source used to select and review relevant development zones.
+- Added the screenshot file name, caption, source URL, and report purpose to the screenshot log.
+
+#### Relation to Project
+
+- Supports the strategic alignment analysis with Alberta Tourism Development Zones.
+- Helps document how relevant zones will be selected for deeper review.
+- Provides visual support for the final report's methodology and source collection sections.
+
+#### Motivation for Research
+
+- Needed to show the source used for TDZ research in a clear and visual way.
+- Needed to prepare report-ready evidence before deeper TDZ analysis begins.
+- Needed to organize screenshot naming and captions so the weekly report is easier to compile.
+
+### Research
+
+#### Link to Article
+
+https://industry.travelalberta.com/research/tourism-indicators
+
+#### Title of the Article
+
+Travel Alberta Tourism Indicators
+
+#### Summary of Report
+
+- Identified the Tourism Indicators page as a key screenshot for showing the categories available for future quantitative analysis.
+- Planned a screenshot to support the baseline tourism trend and economic impact sections of the project.
+- Added this screenshot to the evidence log with a caption and intended report use.
+
+#### Relation to Project
+
+- Supports future analysis of visitor spend, visitation, hotel performance, air access, employment, and economic impact.
+- Helps connect source review with the planned data inventory and RAG ingestion workflow.
+- Provides visual evidence for the research materials reviewed during Week 1.
+
+#### Motivation for Research
+
+- Needed to identify which tourism indicators could support the final analysis.
+- Needed visual evidence for the weekly report and future presentation materials.
+- Needed to prepare the screenshot workflow before building maps, charts, and the RAG prototype.
+
 ### Proof / Supporting Links
 
 - Travel Alberta Research Hub: https://industry.travelalberta.com/research/
