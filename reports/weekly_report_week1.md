@@ -267,3 +267,96 @@ Foothills Tourism Development Zone
 - Needed to compare the Foothills TDZ against other candidate zones.
 - Needed to identify which zones show the strongest economic potential for future hub planning.
 - Needed to create a prioritized TDZ shortlist for the next stage of corridor analysis.
+
+---
+
+## Thursday, June 25, 2026
+
+**Work Title:** Canadian Badlands Review for Red Deer River Corridor Alignment  
+**Time Reported:** 4 hours  
+**Work Type:** Research analysis and corridor alignment
+
+### Work Description
+
+Reviewed the Canadian Badlands Tourism Development Zone to strengthen the Red Deer River corridor side of the project. The work focused on identifying how badlands tourism, paleontology, hiking, camping, river landscapes, and rural visitor dispersal can support future hub recommendations.
+
+### Research
+
+#### Link to Article
+
+https://industry.travelalberta.com/research/tourism-development-zone-reports/canadian-badlands
+
+#### Title of the Article
+
+Canadian Badlands Tourism Development Zone
+
+#### Summary of Report
+
+- Reviewed the Canadian Badlands TDZ for its relevance to the Red Deer River corridor.
+- Recorded key indicators including 1,340 potential jobs, 4.5% annual visitor spend growth, and $186M estimated tourism spend growth.
+- Identified opportunity themes including dinosaurs, hiking, and camping.
+
+#### Relation to Project
+
+- Supports the Red Deer River corridor portion of the tourism development strategy.
+- Helps identify a possible badlands and cultural tourism hub around paleontology, river landscapes, hiking, and scenic touring.
+- Adds a stronger eastern corridor component to the TDZ prioritization work completed earlier in the week.
+
+#### Motivation for Research
+
+- Needed to fill the Canadian Badlands gap in the initial TDZ comparison.
+- Needed to connect Red Deer River corridor planning with an official Travel Alberta development zone.
+- Needed additional evidence for future hub screening, transportation analysis, and RAG source ingestion.
+
+### Work Completed
+
+- Updated the TDZ corridor prioritization note to include Canadian Badlands.
+- Added Canadian Badlands to the literature review matrix.
+- Added Thursday's daily research log with findings, solved problems, next actions, and open questions.
+
+---
+
+## Friday, June 26, 2026
+
+**Work Title:** Recreation Hub Screening Framework and Week 1 Close-Out  
+**Time Reported:** 4 hours  
+**Work Type:** Research synthesis and analysis framework development
+
+### Work Description
+
+Converted the Week 1 literature review into a practical screening framework for evaluating future tourism and recreation hubs. The work focused on creating criteria that can be used next week to compare candidate hubs across TDZ alignment, transportation access, economic potential, activity fit, rural benefit, seasonality, stakeholder readiness, and RAG evidence strength.
+
+### Research
+
+#### Link to Article
+
+https://www.alberta.ca/economic-corridors
+
+#### Title of the Article
+
+Government of Alberta Economic Corridors
+
+#### Summary of Report
+
+- Reviewed Alberta's economic corridors page to understand how the province frames corridors as market links that support economic, social, and environmental activity.
+- Used the corridor framing to connect tourism hub planning with transportation access, visitor movement, and regional development.
+- Identified that future recommendations should consider transportation and coordination across regions rather than treating tourism hubs as isolated destinations.
+
+#### Relation to Project
+
+- Supports the transportation improvement plan deliverable.
+- Helps connect recreation hub recommendations to broader economic corridor planning.
+- Provides a policy framing for why access, connectivity, and regional movement matter in tourism strategy.
+
+#### Motivation for Research
+
+- Needed to close Week 1 by connecting tourism research with transportation corridor logic.
+- Needed to prepare a framework for evaluating candidate hubs next week.
+- Needed source material that supports the report's transportation and implementation sections.
+
+### Work Completed
+
+- Created a recreation hub screening framework with eight scoring criteria.
+- Defined preliminary hub themes for west-central adventure, Central Alberta rural experiences, Bow corridor foothills, and Red Deer River badlands tourism.
+- Connected the screening framework to the future RAG system by defining how hub recommendations should link back to source evidence.
+- Added Friday's daily research log and next-week action items.
