@@ -4,16 +4,20 @@ __pycache__/
 .venv/
 .uv-cache/
 
-# Data artifacts
+# Data artifacts — raw and processed stay local
 data/raw/*
 data/processed/*
-data/vector_store/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+
+# Vector store — index IS committed so Streamlit Cloud can load it
+# Only exclude the gitkeep placeholder override
 !data/vector_store/.gitkeep
+
+# Streamlit secrets — never commit real keys
+.streamlit/secrets.toml
 
 # OS/editor
 .DS_Store
 Thumbs.db
 .vscode/
-
