@@ -133,3 +133,69 @@
 - Should the first hub scoring model use equal weights or prioritize transportation access and economic potential?
 - Should screenshots be embedded in the weekly report or stored as appendix evidence?
 - Should the first RAG prototype use local open-source embeddings or a hosted API?
+
+## 2026-06-29
+
+### Literature Reviewed
+
+- Candidate hub data synthesized from Week 1 TDZ review (David Thompson, Olds to Lacombe, Cochrane to Sundre, Foothills, Canadian Badlands)
+
+### What We Learned
+
+- The five candidate hubs score between 32 and 34 out of 40 using the unweighted screening framework, indicating all five are viable for deeper analysis.
+- The three highest-scoring hubs are the Bow Corridor Foothills Hub, the Foothills Calgary Visitor Dispersal Hub, and the Red Deer River Badlands Hub, each scoring 34 out of 40.
+- Transportation gaps appear across all five hubs. The most consistent gap is the absence of transit connections from Calgary or Edmonton to corridor recreation areas.
+- Data gaps are significant in four areas: seasonal visitor counts by month, accommodation occupancy and capacity, origin-destination data for corridor travelers, and Indigenous tourism partnership inventories.
+- The Foothills TDZ candidate has the largest economic potential by far ($468M estimated tourism spend growth, 3,381 potential jobs), making it the most important hub for economic impact framing.
+- The Canadian Badlands hub has the strongest resident support (83%) and the most distinctive tourism product (paleontology and badlands landscapes), giving it strong differentiation potential.
+
+### Problems Solved
+
+- Converted the Week 1 hub themes and TDZ data into a structured, scored, five-hub candidate table.
+- Identified specific data still needed for each hub, which will guide source collection in Weeks 3 and 4.
+- Identified RAG source documents required for each hub, which will guide ingestion priorities.
+
+### Next Actions
+
+- Build the RAG system foundation so that research evidence can be queried by stakeholders.
+- Start collecting additional source documents for hub analysis: municipal tourism plans, Parks Canada visitor data, Royal Tyrrell Museum data.
+- Refine hub scores once weighted criteria are established after stakeholder priorities are clearer.
+
+### Open Questions
+
+- Should the three highest-scoring hubs (Foothills, Bow Foothills, Badlands) be the focus of the final report's hub chapter?
+- Should the hub scoring model weight economic potential and transportation access more heavily than other criteria?
+- How should Indigenous tourism partnerships be incorporated into the hub analysis?
+
+## 2026-06-30
+
+### Literature Reviewed
+
+- Sentence-Transformers documentation (sbert.net): embedding model selection for the RAG system
+- Groq API documentation: LLM model options, free-tier usage, and OpenAI-compatible endpoints
+
+### What We Learned
+
+- The all-MiniLM-L6-v2 sentence-transformer model is the best free-tier embedding option for this project. It runs on CPU, requires no API key, and produces high-quality semantic embeddings for retrieval tasks.
+- The Groq API provides free-tier access to Llama 3.3 70B Versatile, which has strong reasoning quality and fast inference speeds. It is well-suited for the RAG answer-generation layer.
+- FAISS with inner-product similarity (after L2 normalization) is sufficient for a corpus of this size. The index can be committed directly to the GitHub repo and loaded at app startup.
+- Streamlit Community Cloud provides free hosting that connects directly to a GitHub repo and auto-deploys on push, making it the best free-tier deployment platform for the RAG demo.
+
+### Problems Solved
+
+- Built the full RAG pipeline: document ingestion → embedding → FAISS index → semantic retrieval → Groq LLM generation → Streamlit UI.
+- Resolved the free-tier deployment question: Streamlit Community Cloud for hosting, sentence-transformers for embeddings, Groq for LLM, FAISS for vector store — all free.
+- Built and tested the initial FAISS index from Week 1 project documents.
+
+### Next Actions
+
+- Deploy the Streamlit app to Streamlit Community Cloud.
+- Add more source documents to the corpus (TDZ pages scraped as text, municipal tourism plans, additional research findings).
+- Begin Week 2 tourism trend and baseline indicator analysis.
+- Write a stakeholder question test set for evaluating RAG answer quality.
+
+### Open Questions
+
+- Should the Groq API key be stored in Streamlit secrets or as a GitHub Actions secret?
+- How many test questions should the evaluation set include before the Week 8 formal evaluation?
+- Should the app be password-protected for the demo or open access?
