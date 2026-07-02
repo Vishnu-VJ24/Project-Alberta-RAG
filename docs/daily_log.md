@@ -199,3 +199,65 @@
 - Should the Groq API key be stored in Streamlit secrets or as a GitHub Actions secret?
 - How many test questions should the evaluation set include before the Week 8 formal evaluation?
 - Should the app be password-protected for the demo or open access?
+
+## 2026-07-02
+
+### Literature Reviewed
+
+- Streamlit Community Cloud deployment documentation
+
+### What We Learned
+
+- Streamlit Community Cloud supports free hosting for public GitHub repositories and auto-redeploys on every push to main. This means every new document added to the corpus and every code update goes live automatically without any manual redeploy step.
+- The Groq API free tier provides 500,000 tokens per day with no credit card required. At approximately 1,500 tokens per RAG query, the system can handle over 300 queries per day before hitting the limit, which is well above the expected load for a research demonstration.
+- Initial stakeholder testing confirmed that the RAG system retrieves relevant context and generates cited answers correctly. The system correctly answered questions about TDZ activities and transportation gaps.
+- The live application URL is: https://project-alberta-rag-wkw3tteb56qorgngped57g.streamlit.app/
+
+### Problems Solved
+
+- Deployed the RAG application publicly for the first time.
+- Resolved the Groq API key configuration by adding it through Streamlit's secrets management interface after the initial deployment.
+- Confirmed that the free-tier deployment architecture is viable for the full project duration.
+
+### Next Actions
+
+- Expand the RAG corpus with dedicated source documents for each TDZ to improve answer precision.
+- Research and compile Alberta tourism baseline indicators for the economic analysis chapter.
+- Build a stakeholder question test set to evaluate RAG answer quality in Week 8.
+
+### Open Questions
+
+- Should the app URL be shared with the project partner and supervisor this week?
+- Should the corpus expansion prioritize TDZ documents or provincial baseline data first?
+
+## 2026-07-03
+
+### Literature Reviewed
+
+- Travel Alberta Tourism Indicators: https://industry.travelalberta.com/research/tourism-indicators
+- Travel Alberta Tourism Development Zone Reports overview: https://industry.travelalberta.com/research/tourism-development-zone-reports
+
+### What We Learned
+
+- Alberta tourism employment is highly seasonal, with most rural jobs concentrated in June through August. The shoulder-season gap in Central Alberta is larger than in mountain or urban destinations because rural areas lack winter and off-season product offerings.
+- The combined estimated tourism spend growth potential for the five priority TDZs is $1,151M over a 10-year horizon. The Foothills TDZ alone accounts for $468M of that total.
+- Calgary is the primary domestic source market for four of the five candidate hubs. Edmonton is a secondary source for the David Thompson and Olds-Lacombe hubs.
+- Rural accommodation capacity along the corridor is a binding constraint on overnight visitor spend. Expanding or connecting existing accommodation to marketing networks is a consistent theme across TDZ stakeholder feedback.
+- The Royal Tyrrell Museum is a recognized international paleontology destination and is likely the strongest single demand anchor in the corridor for attracting long-haul and international visitors.
+
+### Problems Solved
+
+- Created a structured tourism baseline document covering all eight indicator categories: economic impact, employment, visitor spend, visitation trends, seasonality, hotel performance, air access, and market size.
+- Identified the six most important data gaps remaining in the baseline: seasonal visitor counts, accommodation occupancy by community, origin-destination data for corridor highways, overnight visitor proportions, Indigenous tourism operator inventory, and Royal Tyrrell Museum annual visitation figures.
+
+### Next Actions
+
+- Add the tourism baseline document to the RAG corpus and rebuild the FAISS index.
+- Begin collecting the data gap items identified today, starting with Statistics Canada travel survey data.
+- Start building the corridor geography table mapping municipalities, highways, rivers, parks, and tourism assets.
+
+### Open Questions
+
+- Should the economic impact model use TDZ-level spend growth figures as the primary input, or should it be anchored to Statistics Canada visitor spend data?
+- Which data gap should be prioritized for collection in Week 3: seasonal counts, accommodation capacity, or origin-destination data?
+

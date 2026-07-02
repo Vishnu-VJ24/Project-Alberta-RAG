@@ -95,3 +95,132 @@ Groq API Documentation — OpenAI-Compatible Endpoints
 - Created .streamlit/config.toml with dark theme and project branding.
 - Ran src/ingest.py to build the initial FAISS index from Week 1 project documents.
 - Confirmed the index was built successfully and retrieval works on test queries.
+
+---
+
+## Wednesday, July 2, 2026
+
+**Work Title:** RAG System Deployment and Stakeholder Testing
+**Time Reported:** 4 hours
+**Work Type:** Technical deployment and system validation
+
+### Work Description
+
+Deployed the Alberta Tourism Corridor RAG system to Streamlit Community Cloud and conducted initial stakeholder question testing. The work focused on connecting the GitHub repository to the hosting platform, configuring the Groq API key through Streamlit's secrets management, verifying end-to-end answer generation, and documenting the live application URL for project reporting and stakeholder communication.
+
+### Research
+
+#### Link to Article
+
+https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app
+
+#### Title of the Article
+
+Streamlit Community Cloud — Deploy Your App
+
+#### Summary of Report
+
+- Reviewed the Streamlit Community Cloud deployment documentation to connect the GitHub repository and configure the live application.
+- Confirmed that Streamlit Community Cloud supports free hosting for public GitHub repositories with automatic redeployment on every push to the main branch.
+- Identified the secrets management interface as the correct method for storing the Groq API key without exposing it in the repository.
+
+#### Relation to Project
+
+- Enables the RAG system to be accessed by stakeholders, project partners, and summit attendees through a public URL without any local setup.
+- Supports the project's showcase and summit communication objectives by providing a shareable, always-available research assistant.
+- Confirms the free-tier deployment architecture is viable for the full project duration.
+
+#### Motivation for Research
+
+- Needed to understand the deployment process before connecting the repository to the hosting platform.
+- Needed to confirm that the Groq API key could be stored securely without being committed to the GitHub repository.
+- Needed to verify that automatic redeployment would work correctly as new documents are added to the corpus in later weeks.
+
+### Work Completed
+
+- Connected the GitHub repository to Streamlit Community Cloud and deployed the app from the main branch using app.py as the entry point.
+- Configured the Groq API key through the Streamlit secrets management interface after initial deployment.
+- Confirmed the application is live and publicly accessible at:
+  **https://project-alberta-rag-wkw3tteb56qorgngped57g.streamlit.app/**
+- Tested the live application with three stakeholder questions:
+  - "Which TDZ has the highest economic potential?"
+  - "What transportation gaps exist across the candidate hubs?"
+  - "What activities are recommended for the Drumheller badlands hub?"
+- Confirmed that the system retrieves source chunks, generates cited answers, and displays source document metadata correctly.
+- Noted that expanding the corpus with dedicated per-TDZ source documents will improve answer precision in future updates.
+- Verified that the Groq free tier (500,000 tokens per day, no credit card required) is sufficient for research and demonstration use throughout the project.
+
+---
+
+## Thursday, July 3, 2026
+
+**Work Title:** Alberta Tourism Baseline Profile and Indicator Research
+**Time Reported:** 4 hours
+**Work Type:** Research analysis and data collection
+
+### Work Description
+
+Researched and compiled a tourism baseline profile for Central Alberta covering key indicators from Travel Alberta's public research hub. The work focused on identifying visitor spend trends, seasonality patterns, hotel performance, employment figures, air access data, and market size estimates that will anchor the economic analysis chapters of the final report. The compiled baseline was added to the project knowledge base as a new corpus document.
+
+### Research
+
+#### Link to Article
+
+https://industry.travelalberta.com/research/tourism-indicators
+
+#### Title of the Article
+
+Travel Alberta Tourism Indicators
+
+#### Summary of Report
+
+- Reviewed Travel Alberta's tourism indicators portal, which tracks economic impact, employment, visitor spend, visitation trends, visitor characteristics, hotel performance, air access, air passengers, and market size across Alberta.
+- Identified that Alberta's tourism sector contributes significantly to provincial GDP and that Central Alberta sits between the two highest-volume tourism corridors in the province — the Calgary–Banff corridor and the Edmonton corridor.
+- Noted that visitor spend data is broken down by domestic and international origin, and that seasonality compression is a documented challenge across rural Alberta destinations.
+
+#### Relation to Project
+
+- Provides the quantitative baseline needed to support economic impact estimates for each candidate hub.
+- Informs the seasonality analysis that will be used to score hubs on their ability to extend visits into spring and fall.
+- Supplies context for comparing corridor-level tourism performance against provincial averages.
+
+#### Motivation for Research
+
+- Needed to establish a baseline tourism profile before building the economic impact model in Week 6.
+- Needed indicator categories that could be linked to TDZ data already in the project to create a coherent analytical chain.
+- Needed source material that could be added to the RAG corpus so stakeholders can query provincial tourism context alongside corridor-specific evidence.
+
+### Research
+
+#### Link to Article
+
+https://industry.travelalberta.com/research/tourism-development-zone-reports
+
+#### Title of the Article
+
+Travel Alberta Tourism Development Zone Reports — Overview
+
+#### Summary of Report
+
+- Reviewed the TDZ reports overview page to confirm the structure and comparability of TDZ-level tourism data across the five priority zones.
+- Confirmed that all TDZ pages use consistent indicator categories including potential jobs, annual visitor spend growth percentage, and estimated total tourism spend growth, allowing direct cross-zone comparison.
+- Noted that TDZ data reflects a 10-year planning horizon, which aligns with the project's strategic rather than short-term framing.
+
+#### Relation to Project
+
+- Supports the cross-TDZ comparison in the hub scoring table by confirming data consistency across zones.
+- Provides the analytical foundation for presenting relative economic potential between the five candidate hubs.
+- Confirms that TDZ-level data can be used directly in the RAG corpus to answer stakeholder questions about specific zones.
+
+#### Motivation for Research
+
+- Needed to confirm that the five TDZ pages use consistent data structures before building comparative analysis.
+- Needed to understand the 10-year planning horizon so economic potential figures are framed correctly in the final report.
+- Needed to prepare the source inventory for the corpus expansion planned for the following week.
+
+### Work Completed
+
+- Created docs/tourism_baseline.md with a structured summary of Central Alberta tourism indicators covering economic impact, visitor spend trends, seasonality, hotel performance, employment, air access, and market size context.
+- Added the tourism baseline document to the project knowledge base and rebuilt the FAISS index to include the new source.
+- Updated the literature review matrix with the Travel Alberta Tourism Indicators source.
+- Identified key data gaps where Statistics Canada travel survey data and regional accommodation occupancy figures are still needed.
