@@ -224,3 +224,64 @@ Travel Alberta Tourism Development Zone Reports — Overview
 - Added the tourism baseline document to the project knowledge base and rebuilt the FAISS index to include the new source.
 - Updated the literature review matrix with the Travel Alberta Tourism Indicators source.
 - Identified key data gaps where Statistics Canada travel survey data and regional accommodation occupancy figures are still needed.
+
+---
+
+## Friday, July 4, 2026
+
+**Work Title:** Week 2 Close-Out and RAG Evaluation Framework
+**Time Reported:** 3 hours
+**Work Type:** Research synthesis and quality assurance planning
+
+### Work Description
+
+Closed out Week 2 by reviewing the full set of deliverables, building the RAG system evaluation question set, and preparing the project for Week 3 geospatial and corridor geography work. The work focused on defining how the RAG system will be formally evaluated in Week 8 and documenting the evidence gaps that need to be filled before the system can answer all core stakeholder questions reliably.
+
+### Research
+
+#### Link to Article
+
+https://docs.ragas.io/en/stable/
+
+#### Title of the Article
+
+RAGAS — Evaluation Framework for Retrieval-Augmented Generation Systems
+
+#### Summary of Report
+
+- Reviewed the RAGAS framework documentation to understand how RAG systems are formally evaluated on faithfulness, answer relevance, context precision, and context recall.
+- Identified faithfulness and citation quality as the two most important metrics for this project, because the final report and summit presentation depend on cited, verifiable claims.
+- Noted that a manual question-and-answer evaluation is appropriate for this project's scale, rather than an automated RAGAS pipeline, given the small corpus size and domain-specific nature of the questions.
+
+#### Relation to Project
+
+- Informs the RAG evaluation plan outlined in the original system design document.
+- Provides a scoring framework that can be applied to the 34-question test set created today.
+- Helps define the minimum quality bar the system must meet before the Week 8 final evaluation.
+
+#### Motivation for Research
+
+- Needed to understand best practices for evaluating RAG systems before finalizing the question test set.
+- Needed to determine whether an automated or manual evaluation approach is more appropriate given the project scope and timeline.
+- Needed to connect the evaluation plan to the deliverable requirements in the final report methodology section.
+
+### Work Completed
+
+- Created docs/rag_evaluation_questions.md with 34 stakeholder questions across five categories: TDZ alignment and economic potential, candidate hub recommendations, transportation and corridor access, tourism baseline and seasonality, and RAG system scope.
+- Defined a five-dimension scoring rubric covering faithfulness, citation quality, completeness, usefulness, and uncertainty handling.
+- Documented minimum acceptable performance targets: 90% of answers cite a source, 85% avoid unsupported claims, 80% are useful without rewriting.
+- Shared the live RAG application link with the project partner for review:
+  **https://project-alberta-rag-wkw3tteb56qorgngped57g.streamlit.app/**
+- Reviewed Week 2 deliverables and confirmed all five days of work are committed and pushed to GitHub.
+
+### Week 2 Summary
+
+Week 2 produced four major deliverables:
+
+1. **Candidate hub table** — five corridor hubs fully profiled and scored using the eight-criteria framework. Top three hubs scored 34 out of 40.
+2. **RAG system** — complete ingestion pipeline, FAISS vector index, semantic retrieval module, and Streamlit application built and deployed on free infrastructure.
+3. **Tourism baseline profile** — structured summary of Central Alberta tourism across eight indicator categories, with $1.15 billion in combined TDZ spend growth potential identified.
+4. **RAG evaluation framework** — 34-question test set and scoring rubric ready for Week 8 formal evaluation.
+
+The RAG system is live at a public URL, has been shared with the project partner, and will auto-update as new documents are added to the corpus in Weeks 3 through 7.
+

@@ -261,3 +261,42 @@
 - Should the economic impact model use TDZ-level spend growth figures as the primary input, or should it be anchored to Statistics Canada visitor spend data?
 - Which data gap should be prioritized for collection in Week 3: seasonal counts, accommodation capacity, or origin-destination data?
 
+## 2026-07-04
+
+### Literature Reviewed
+
+- RAGAS evaluation framework documentation: https://docs.ragas.io/en/stable/
+
+### What We Learned
+
+- RAGAS is a framework for evaluating RAG systems on faithfulness, answer relevance, context precision, and context recall. For this project, a manual evaluation approach is more appropriate than an automated RAGAS pipeline given the small corpus and domain-specific questions.
+- Faithfulness and citation quality are the two most critical metrics for this project. Every claim in the final report and summit presentation needs to be traceable to a specific source document.
+- A 34-question test set across five categories gives a representative sample of the stakeholder questions the system is expected to handle.
+
+### Problems Solved
+
+- Built the RAG evaluation question set with 34 questions and a five-dimension scoring rubric.
+- Defined minimum acceptable targets for the Week 8 formal evaluation.
+- Closed out Week 2 with all deliverables committed and pushed to GitHub.
+- Shared the live RAG application with the project partner.
+
+### Week 2 Deliverables Completed
+
+1. Candidate hub table — five hubs fully scored
+2. RAG system — built, indexed, and deployed live
+3. Tourism baseline profile — eight indicator categories
+4. RAG evaluation framework — 34-question test set and scoring rubric
+
+### Next Actions (Week 3)
+
+- Build corridor geography table: municipalities, highways, rivers, parks, airports for each hub area.
+- Expand RAG corpus with dedicated TDZ text documents scraped from Travel Alberta pages.
+- Begin geospatial asset and gap analysis.
+- Start collecting Statistics Canada travel survey data.
+
+### Open Questions
+
+- Should the corridor geography table be built as one document or split by hub?
+- Should Week 3 start with corpus expansion or corridor geography mapping first?
+
+
