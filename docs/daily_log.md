@@ -299,4 +299,68 @@
 - Should the corridor geography table be built as one document or split by hub?
 - Should Week 3 start with corpus expansion or corridor geography mapping first?
 
+## 2026-07-07
+
+### Literature Reviewed
+
+- Alberta Parks: Sylvan Lake Provincial Park page
+- CN Railway network overview
+
+### What We Learned
+
+- Central Alberta is the only corridor zone with active freight rail infrastructure — CN runs through Red Deer and Lacombe County, CPKC runs near Ponoka. All other corridor zones have no active rail.
+- Drumheller rail is confirmed not viable by the project stakeholder: tracks no longer exist. Transportation recommendations for that hub must focus on road-based improvements.
+- Sylvan Lake is experiencing real summer congestion — the $50/day parking charge is a direct market signal that demand exceeds current access capacity. This is the strongest near-term case for a rail-linked tourism intervention in the entire corridor.
+- The five corridor zones differ significantly in their transportation infrastructure. Only the Central Alberta zone has the rail right-of-way needed for a passenger or tourist shuttle service.
+
+### Problems Solved
+
+- Built the corridor geography table across five zones, providing the first structured geospatial reference for the project.
+- Incorporated stakeholder feedback from the July 6 meeting into the project analysis.
+- Resolved the Drumheller vs Sylvan Lake rail question in favour of Sylvan Lake based on infrastructure reality.
+
+### Next Actions
+
+- Build the Sylvan Lake visitor conversion economic model.
+- Identify geospatial tourism asset gaps using the corridor geography table.
+- Begin under-served zone analysis.
+
+### Open Questions
+
+- What is the actual annual visitor count for Sylvan Lake? This is needed to run the conversion model with real numbers.
+- Should the Sylvan Lake rail proposal be positioned as a pilot for the September summit, or as a longer-term recommendation?
+
+## 2026-07-08
+
+### Literature Reviewed
+
+- CPKC network documentation
+- Government of Alberta Economic Corridors (revisited for transportation policy framing)
+
+### What We Learned
+
+- CPKC lines supplement CN in the Central Alberta corridor zone, providing additional right-of-way options for a Sylvan Lake rail service. Both operators would need to be engaged for any passenger rail activation.
+- The provincial economic corridors framework explicitly supports transportation links that enable economic and social activity — this framing strengthens the policy case for a Sylvan Lake rail shuttle.
+- The Integrated Transportation and Economic Corridor Summit in September 2026 is a direct communication opportunity. A Sylvan Lake rail proposal aligned with CN/CPKC right-of-way is a concrete, costed transportation recommendation that fits the summit's agenda.
+- The illustrative visitor conversion model shows daily rail revenue potential of $10,000 to $32,000 depending on volume and conversion rate assumptions. Actual figures require real visitor count data.
+
+### Problems Solved
+
+- Built a full transportation opportunity analysis for the Sylvan Lake CN right-of-way route.
+- Developed a replicable visitor conversion framework that can be applied to other potential rail or shuttle opportunities in the corridor.
+- Updated the project hub structure to include Sylvan Lake as a rail-linked node within the Central Alberta hub.
+
+### Next Actions
+
+- Collect actual Sylvan Lake visitor data from Lacombe County or Alberta Parks.
+- Begin the geospatial asset gap analysis using the corridor geography table.
+- Expand the RAG corpus with the new corridor geography and Sylvan Lake documents.
+- Rebuild the FAISS index and push the updated knowledge base.
+
+### Open Questions
+
+- Should the conversion rate assumption be validated against comparable rail shuttle case studies from other Canadian provinces?
+- Should the Sylvan Lake analysis be presented to the summit as a standalone case study or embedded in the broader transportation improvement plan?
+
+
 
