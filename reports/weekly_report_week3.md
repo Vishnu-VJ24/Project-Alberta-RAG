@@ -148,3 +148,98 @@ Government of Alberta Economic Corridors
 - Updated the project hub analysis to include Sylvan Lake as a rail-linked access node within the Central Alberta Rural Experience Hub.
 - Confirmed that Drumheller transportation recommendations should focus on road-based improvements rather than rail.
 - Identified four data items still needed: Sylvan Lake annual visitor counts, CN and CPKC right-of-way availability, comparable operating cost benchmarks, and visitor origin survey data.
+
+---
+
+## Wednesday, July 9, 2026
+
+**Work Title:** Tourism Asset Gap Analysis — Five Corridor Zones
+**Time Reported:** 4 hours
+**Work Type:** Research analysis and geospatial assessment
+
+### Work Description
+
+Conducted a structured tourism asset gap analysis across all five corridor zones using the corridor geography table as the primary input. Each zone was assessed against four infrastructure categories — access, accommodation, visitor services, and marketing connectivity — to identify where tourism assets exist but lack the infrastructure needed to convert them into visitor activity and community economic benefit. The analysis produced zone-level gap ratings and identified four cross-corridor structural gap patterns that affect the entire project area.
+
+### Research
+
+#### Link to Article
+
+https://www150.statcan.gc.ca/n1/pub/71-607-x/2018014/trav-eng.htm
+
+#### Title of the Article
+
+Statistics Canada — Travel Survey of Residents of Canada (TSRC)
+
+#### Summary of Report
+
+- Reviewed the Travel Survey of Residents of Canada methodology to understand how domestic tourism is measured at the regional and community level.
+- Confirmed that the survey captures visit rates, overnight stays, and spending by destination type, providing the analytical framework for comparing corridor communities against provincial benchmarks.
+- Noted that the TSRC distinguishes between same-day visits and overnight stays — a critical distinction for assessing whether corridor zones are capturing day-trip visitors, overnight visitors, or neither.
+
+#### Relation to Project
+
+- Provides the measurement framework for assessing visitor spend concentration and overnight conversion rates across the corridor zones.
+- Supports the gap analysis by establishing what a well-served tourism zone looks like in terms of overnight visit proportion and visitor spend per trip.
+- Identifies the data source for collecting real visitor counts and spending figures for each corridor zone in future research phases.
+
+#### Motivation for Research
+
+- Needed a methodological reference for defining what constitutes an under-served zone versus a zone with low natural demand.
+- Needed to understand how national tourism surveys measure the gap between day visitors and overnight visitors.
+- Needed to connect the gap analysis framework to a credible national data source before presenting findings to the project partner.
+
+### Work Completed
+
+- Created docs/asset_gap_analysis.md covering all five corridor zones with gap ratings, four-category infrastructure assessment per zone, cross-corridor structural gap patterns, and a priority gap table by investment urgency.
+- Assigned overall gap ratings: Zone 3 (David Thompson) and Zone 5 (Drumheller) rated Critical; Zones 1 and 4 rated High; Zone 2 rated Moderate.
+- Identified four structural gap patterns affecting the entire corridor: transit desert, visitor spend concentration, accommodation ceiling, and marketing disconnection.
+- Confirmed that the David Thompson zone has the highest gap-to-potential ratio in the project area — world-class assets with the weakest infrastructure of any zone.
+
+---
+
+## Thursday, July 10, 2026
+
+**Work Title:** Under-Served Zone Identification and Priority Analysis
+**Time Reported:** 4 hours
+**Work Type:** Strategic analysis and planning
+
+### Work Description
+
+Built on the asset gap analysis to identify and profile the five most under-served tourism zones in the project area. Each zone was assessed against four under-served criteria, given a priority ranking, and assigned a set of concrete recommended interventions. The analysis confirmed the Abraham Lake and Nordegg backcountry as the highest-priority under-served zone in the corridor, and identified the Highway 2A heritage corridor as the strongest opportunity for a new consumer-facing corridor product with minimal infrastructure investment.
+
+### Research
+
+#### Link to Article
+
+https://open.alberta.ca/publications/tourism-development-in-alberta
+
+#### Title of the Article
+
+Tourism Development in Alberta — Government of Alberta
+
+#### Summary of Report
+
+- Reviewed the Government of Alberta's tourism development framework to understand how the province categorizes tourism investment priorities and supports rural tourism dispersal.
+- Confirmed that the province recognizes visitor spend dispersal from urban to rural communities as a core tourism development objective, aligning with the project's focus on under-served corridor zones.
+- Noted that the province supports heritage corridor and scenic route development as tools for rural dispersal — directly relevant to the Highway 2A heritage corridor opportunity identified in the analysis.
+
+#### Relation to Project
+
+- Provides policy alignment for the under-served zone interventions recommended in the analysis, particularly the Hwy 2A corridor branding and the Drumheller valley dispersal circuit.
+- Supports the final report's policy section by showing that the project's dispersal strategy aligns with provincial tourism development priorities.
+- Connects the hub recommendations to the province's rural tourism investment framework.
+
+#### Motivation for Research
+
+- Needed to ensure the under-served zone recommendations align with provincial policy rather than contradict existing investment priorities.
+- Needed a policy reference for the heritage corridor and scenic route intervention type proposed for the Hwy 2A corridor.
+- Needed to frame the under-served zone findings in language consistent with the provincial tourism development framework for the summit presentation.
+
+### Work Completed
+
+- Created docs/underserved_zones.md profiling five under-served zones: Abraham Lake and Nordegg backcountry (Priority 1), Drumheller valley communities beyond the Tyrrell Museum (Priority 2), Highway 2A heritage corridor (Priority 3), High River and Turner Valley triangle (Priority 4), and Sundre and upper Red Deer headwaters (Priority 5).
+- Applied a four-criterion under-served framework to each zone: asset-access mismatch, spend concentration bypass, accommodation floor, and marketing invisibility.
+- Identified recommended interventions for each zone including shuttle services, circuit packaging, joint ticketing, and heritage corridor branding.
+- Confirmed that the Abraham Lake visitor node and Drumheller valley loop wayfinding are the two highest-priority physical infrastructure interventions.
+- Rebuilt the FAISS index to include the asset gap analysis and under-served zones documents for stakeholder querying.

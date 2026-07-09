@@ -362,5 +362,67 @@
 - Should the conversion rate assumption be validated against comparable rail shuttle case studies from other Canadian provinces?
 - Should the Sylvan Lake analysis be presented to the summit as a standalone case study or embedded in the broader transportation improvement plan?
 
+## 2026-07-09
+
+### Literature Reviewed
+
+- Statistics Canada Travel Survey of Residents of Canada (TSRC) methodology
+
+### What We Learned
+
+- The TSRC distinguishes between same-day visits and overnight stays — this is the critical split for assessing whether corridor zones are capturing day-trip visitors, overnight visitors, or neither. Most under-served zones in this corridor are capturing day trips but losing the overnight visit and its associated spend.
+- The four structural gap patterns in the corridor — transit desert, visitor spend concentration, accommodation ceiling, and marketing disconnection — are not unique to this region. They are the same patterns that characterize under-developed rural tourism zones nationally.
+- The David Thompson zone (Abraham Lake, Nordegg) has the highest gap-to-potential ratio of any zone. Exceptional assets, almost no supporting infrastructure. This is the most urgent investment case in the project area.
+- Zones 3 and 5 (David Thompson and Drumheller) were both rated Critical. Zones 1 and 4 (Cochrane-Sundre and Foothills) rated High. Zone 2 (Central Alberta) rated Moderate — it has the best infrastructure of any corridor zone.
+
+### Problems Solved
+
+- Built the asset gap analysis across all five zones with structured gap ratings.
+- Identified four cross-corridor structural gaps that apply project-wide rather than zone-specific.
+- Confirmed investment priority order by zone for the transportation and hub recommendation sections.
+
+### Next Actions
+
+- Build under-served zone profiles with specific recommended interventions per zone.
+- Identify which data gaps are most critical to fill before Week 5 hub refinement.
+- Rebuild FAISS index with new analysis documents.
+
+### Open Questions
+
+- Should the TSRC data be used to establish a quantitative overnight conversion rate benchmark for each zone?
+- Is the accommodation gap in Zone 3 the binding constraint or is access the more urgent priority?
+
+## 2026-07-10
+
+### Literature Reviewed
+
+- Government of Alberta Tourism Development in Alberta framework
+
+### What We Learned
+
+- The province explicitly recognizes visitor spend dispersal from urban to rural communities as a core tourism development objective. The project's under-served zone work directly aligns with this provincial priority.
+- Heritage corridor and scenic route development is a recognized provincial tool for rural dispersal — the Highway 2A heritage corridor opportunity identified today is well-supported by existing policy frameworks.
+- The Integrated Transportation and Economic Corridor Summit in September is the right venue for presenting both the under-served zone findings and the Sylvan Lake rail proposal. Both fit squarely within the summit's mandate.
+- The five under-served zones identified today collectively represent the strongest case for the project's dispersal strategy. They show that the problem is not a lack of assets — it is a lack of infrastructure and marketing to connect those assets to visitors.
+
+### Problems Solved
+
+- Completed the under-served zone analysis with five priority zones, four-criterion framework, gap evidence, and concrete recommended interventions for each.
+- Confirmed Abraham Lake and Nordegg backcountry as Priority 1 under-served zone.
+- Identified the Highway 2A heritage corridor as the lowest-cost, highest-impact new corridor product opportunity.
+- Completed Week 3 analytical deliverables: corridor geography table, Sylvan Lake rail analysis, asset gap analysis, and under-served zone profiles — four documents covering the full geospatial scope of the project.
+
+### Next Actions
+
+- Do the Week 3 Friday close-out.
+- Rebuild FAISS index and push all new documents to GitHub.
+- Prepare for Week 4 transportation needs assessment.
+
+### Open Questions
+
+- Should the Hwy 2A heritage corridor recommendation be fast-tracked as a near-term win given its low infrastructure cost?
+- How should the under-served zone findings be presented in the final report — as a standalone chapter or integrated into the hub recommendations chapter?
+
+
 
 
