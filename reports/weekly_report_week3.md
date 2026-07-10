@@ -243,3 +243,62 @@ Tourism Development in Alberta — Government of Alberta
 - Identified recommended interventions for each zone including shuttle services, circuit packaging, joint ticketing, and heritage corridor branding.
 - Confirmed that the Abraham Lake visitor node and Drumheller valley loop wayfinding are the two highest-priority physical infrastructure interventions.
 - Rebuilt the FAISS index to include the asset gap analysis and under-served zones documents for stakeholder querying.
+
+---
+
+## Friday, July 11, 2026
+
+**Work Title:** Week 3 Close-Out and Corridor Strategic Synthesis
+**Time Reported:** 3 hours
+**Work Type:** Research synthesis and strategic planning
+
+### Work Description
+
+Closed out Week 3 by synthesizing the four analytical deliverables from the week into a single strategic document connecting the corridor geography findings, the gap analysis, and the under-served zone profiles to the hub recommendations from Week 2. The work focused on identifying the five strongest cross-cutting insights from the geospatial work and framing the key decisions for the Week 4 transportation needs assessment.
+
+### Research
+
+#### Link to Article
+
+https://www.tc.gc.ca/en/programs-policies/programs/gateway-corridor-programs.html
+
+#### Title of the Article
+
+Transport Canada — Gateway and Corridor Programs
+
+#### Summary of Report
+
+- Reviewed the Transport Canada gateway and corridor programs page to understand the federal policy framework for corridor-based transportation investment, relevant to the Sylvan Lake rail opportunity and the broader corridor transportation recommendations.
+- Confirmed that Transport Canada supports multimodal corridor development that integrates passenger and freight considerations, which is consistent with the CN and CPKC right-of-way activation concept identified in Week 3.
+- Noted that federal corridor programs typically require provincial and municipal co-investment, which has implications for how the Sylvan Lake rail proposal should be framed at the September summit.
+
+#### Relation to Project
+
+- Connects the Sylvan Lake rail transportation analysis to the federal corridor policy framework, strengthening the investment case beyond the provincial level.
+- Helps frame the corridor transportation recommendations in the final report for a multi-order-of-government audience.
+- Identifies the federal program landscape that could provide co-funding for the corridor transportation improvements recommended by the project.
+
+#### Motivation for Research
+
+- Needed to understand whether a federal policy hook exists for the Sylvan Lake rail opportunity before finalizing transportation recommendations.
+- Needed to frame the corridor transportation plan at the correct jurisdictional level for the September summit audience.
+- Needed to confirm that multimodal corridor development is a recognized federal priority before recommending CN and CPKC engagement.
+
+### Work Completed
+
+- Created docs/week3_corridor_synthesis.md synthesizing the four Week 3 deliverables into a strategic picture, identifying the five key cross-cutting insights and five priority decisions for the Week 4 transportation assessment.
+- Confirmed that the Sylvan Lake CN rail opportunity is the most actionable near-term transportation intervention in the project area.
+- Confirmed that the David Thompson zone has the highest gap-to-potential ratio and should be elevated in the final hub scoring.
+- Identified the Highway 2A heritage corridor as the lowest-cost new consumer-facing corridor product.
+- Rebuilt the FAISS index to include the synthesis document and confirmed the corpus at 121 chunks across 19 project documents.
+- Committed and pushed all Week 3 work to GitHub.
+
+### Week 3 Summary
+
+Week 3 produced five analytical deliverables covering the full geospatial scope of the project:
+
+1. **Corridor geography table** — five zones mapped across communities, highways, rivers, parks, airports, and rail infrastructure.
+2. **Sylvan Lake transportation analysis** — visitor conversion economic model built from stakeholder input, with $10 one-way vs $50 parking cost comparison and illustrative daily revenue of $10,000–$32,000.
+3. **Asset gap analysis** — five-zone gap assessment identifying four structural gap patterns: transit desert, spend concentration, accommodation ceiling, and marketing disconnection.
+4. **Under-served zone profiles** — five priority under-served zones with recommended interventions per zone.
+5. **Corridor synthesis** — cross-cutting strategic narrative connecting geospatial findings to hub recommendations and identifying key decisions for Week 4.

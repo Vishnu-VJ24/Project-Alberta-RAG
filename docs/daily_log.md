@@ -423,6 +423,46 @@
 - Should the Hwy 2A heritage corridor recommendation be fast-tracked as a near-term win given its low infrastructure cost?
 - How should the under-served zone findings be presented in the final report — as a standalone chapter or integrated into the hub recommendations chapter?
 
+## 2026-07-11
+
+### Literature Reviewed
+
+- Transport Canada Gateway and Corridor Programs documentation
+
+### What We Learned
+
+- Transport Canada supports multimodal corridor development integrating passenger and freight, which aligns with the CN and CPKC right-of-way activation concept for the Sylvan Lake rail opportunity.
+- Federal corridor programs typically require provincial and municipal co-investment — this means the Sylvan Lake proposal needs to be framed as a multi-order-of-government initiative at the September summit, not just a provincial or local project.
+- The five key strategic insights from Week 3 are: infrastructure quality does not match asset quality in four of five zones; four structural gaps apply corridor-wide; the Sylvan Lake rail opportunity is the most actionable near-term intervention; the David Thompson zone has the highest gap-to-potential ratio; and the Hwy 2A heritage corridor is the lowest-cost new product opportunity.
+
+### Problems Solved
+
+- Synthesized four Week 3 deliverables into a coherent strategic narrative in docs/week3_corridor_synthesis.md.
+- Identified five priority decisions for the Week 4 transportation assessment: Sylvan Lake ridership data, David Thompson shuttle feasibility, Drumheller road improvements, Hwy 2A corridor branding precedents, and CN vs CPKC engagement strategy.
+- Closed out Week 3 with all five deliverables committed and pushed to GitHub.
+- Confirmed the RAG corpus at 121 chunks across 19 project documents — updated and live on Streamlit.
+
+### Week 3 Deliverables Completed
+
+1. Corridor geography table — five zones fully mapped
+2. Sylvan Lake rail transportation analysis — economic model complete
+3. Asset gap analysis — five zones rated, four structural patterns identified
+4. Under-served zone profiles — five zones with interventions
+5. Corridor synthesis — strategic cross-cutting narrative
+
+### Next Actions (Week 4)
+
+- Transportation needs assessment: formal analysis of each corridor zone's transportation improvement priorities
+- Collect Sylvan Lake actual visitor count data
+- Research comparable rural shuttle and tourist rail case studies from other Canadian provinces
+- Start drafting the transportation improvement plan chapter for the final report
+
+### Open Questions
+
+- Should the Week 4 transportation assessment start with the Sylvan Lake rail case study or the corridor-wide transit gap analysis?
+- Is there a comparable tourist rail shuttle operating on CN or CPKC right-of-way anywhere in Canada that can serve as a benchmark?
+
+
 
 
 
